@@ -11,11 +11,11 @@ Build Configuration for authentication and real-time database using ReactJS and 
 - ES6 syntax
 
 ## Instructions:
-- npm install or npm i
-- Add your Firebase app configurations to file: src/firebase/Firebase.js
-- For facebook login, follow instructions here: https://firebase.google.com/docs/auth/web/facebook-login
-- Run: npm start and open http://localhost:3000
-- To create production build: npm run build
+- Clone this repo on your local machine: https://github.com/devpao26/Authentication-App.git
+- cd or move to `Project_Name`
+- Install: npm install or npm i
+- Run using this script: npm start and open http://localhost:3000
+- Build: To create production build: npm run build
 
 ## Built using:
 - create-react-app:  `https://github.com/facebook/create-react-app`
